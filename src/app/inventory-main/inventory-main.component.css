@@ -1,0 +1,490 @@
+.locationModel {
+    margin-top: 2%;
+    margin-left: 1%;
+    padding: 5px;
+}
+
+.locationCard {
+    box-shadow: 1px 1px 15px;
+    padding: 15px;
+    border-radius: 3%;
+    margin: 20px;
+
+}
+
+.locationHead {
+    position: relative;
+
+}
+
+.locationName {
+    padding: 5px;
+    font-weight: 200;
+    text-align: center;
+    font-size: 20px;
+}
+
+.otherName {
+    padding: 10px;
+    font-weight: 400;
+    text-align: center;
+    font-size: 25px;
+}
+
+.locationNameHead {
+    padding: 5px;
+    font-weight: 400;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.locationNameHead2 {
+    padding: 5px;
+    font-weight: 400;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.zeroStock {
+    padding: 5px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+
+
+.locationHeader {
+    margin-bottom: 7px;
+    border: 2px solid;
+    border-radius: 30px;
+    background-color: #003358;
+    color: #48FF9B;
+}
+
+.locationHeaderName {
+    margin-bottom: 7px;
+    border: 2px solid;
+    border-radius: 30px;
+    background-color: #003358;
+    color: #48FF9B;
+
+}
+
+.locationHeaderName2 {
+    margin-bottom: 7px;
+    border: 2px solid;
+    border-radius: 30px;
+    background-color: #003358;
+    color: #48FF9B;
+
+}
+
+
+.lowStock {
+    text-align: center;
+}
+
+.uptodate {
+    text-align: center;
+}
+
+.backorder {
+    text-align: center;
+}
+
+.partToolTip {
+    float: left;
+    width: 500px !important;
+}
+
+.partNum {
+    padding: -10 !important;
+    margin: -10 !important;
+}
+
+.lowStockPart {
+    white-space: pre-wrap;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+    width: 80%;
+    margin: 20px;
+    margin-bottom: 5px;
+    color: black;
+    font-weight: 400;
+    font-size: 11px;
+    border: 2px solid #dc3545;
+    z-index: 1;
+    transition: box-shadow 200ms cubic-bezier(0, 0, 0.2, 1);
+    box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+        0 2px 2px 0 rgba(0, 0, 0, 0.14),
+        0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
+.lowStockPart:active {
+    box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2),
+        0 8px 10px 1px rgba(0, 0, 0, 0.14),
+        0 3px 14px 2px rgba(0, 0, 0, 0.12);
+}
+
+.lowStockPart .lowStockBadge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 4px 8px;
+    border-radius: 50%;
+    background: #dc3545;
+    color: white;
+    font-size: 12px;
+}
+
+
+.lowStockPart .addPart {
+    position: absolute;
+    bottom: -20px;
+    left: -10px;
+    padding: 1px 6px;
+    border-radius: 50%;
+    background: white;
+    color: #dc3545;
+    font-size: 12px;
+    font-weight: 900;
+}
+
+.lowStockPart .removePart {
+    position: absolute;
+    bottom: -20px;
+    left: 12px;
+    padding: 1px 8px;
+    border-radius: 50%;
+    background: white;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+
+.nonStockHeader {
+    margin: 7px;
+    border: 2px solid;
+}
+
+.zeroStockHeader {
+    margin: 7px;
+    border: 2px solid;
+}
+
+.nonStockPanel {
+    box-shadow: 2px 2px 10px;
+    margin-top: 10%;
+}
+
+.zeroStockPanel {
+    box-shadow: 2px 2px 10px;
+    margin-top: 12%;
+}
+
+.nonStockFooter {
+    margin-bottom: 20px;
+}
+
+.zeroStockFooter {
+    margin-bottom: 20px;
+}
+
+.zeroStockPart {
+    white-space: pre-wrap;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+    width: 50%;
+    margin: 20px;
+    margin-bottom: 5px;
+    color: black;
+    font-weight: 400;
+    font-size: 11px;
+    border: 2px solid #0d6efd;
+    z-index: 1;
+    transition: box-shadow 200ms cubic-bezier(0, 0, 0.2, 1);
+    box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+        0 2px 2px 0 rgba(0, 0, 0, 0.14),
+        0 1px 5px 0 rgba(0, 0, 0, 0.12);
+
+}
+
+.nonStockPart {
+    white-space: pre-wrap;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+    width: 50%;
+    margin: 20px;
+    margin-bottom: 5px;
+    color: black;
+    font-weight: 400;
+    font-size: 11px;
+    border: 2px solid #0d6efd;
+    z-index: 1;
+    transition: box-shadow 200ms cubic-bezier(0, 0, 0.2, 1);
+    box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+        0 2px 2px 0 rgba(0, 0, 0, 0.14),
+        0 1px 5px 0 rgba(0, 0, 0, 0.12);
+
+}
+
+.nonStockPart:active {
+    box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2),
+        0 8px 10px 1px rgba(0, 0, 0, 0.14),
+        0 3px 14px 2px rgba(0, 0, 0, 0.12);
+}
+
+.nonStockPart .nonStockBadge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 4px 9px;
+    border-radius: 50%;
+    background: #003358;
+    color: #48FF9B;
+    font-size: 12px;
+}
+
+.nonStockPart .addPart {
+    position: absolute;
+    bottom: -20px;
+    left: -10px;
+    padding: 1px 7px;
+    border-radius: 50%;
+    background: white;
+    color: #003358;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.nonStockPart .removePart {
+    position: absolute;
+    bottom: -20px;
+    left: 16px;
+    padding: 1px 10px;
+    border-radius: 50%;
+    background: white;
+    color: #003358;
+    border: 1px solid #003358;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.uptodatePart {
+    white-space: pre-wrap;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+    width: 80%;
+    margin: 20px;
+    margin-bottom: 5px;
+    color: black !important;
+    font-weight: 400;
+    font-size: 11px;
+    border: 2px solid #48FF9B;
+    z-index: 1;
+    transition: box-shadow 200ms cubic-bezier(0, 0, 0.2, 1);
+    box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+        0 2px 2px 0 rgba(0, 0, 0, 0.14),
+        0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
+.uptodatePart .uptodateBadge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 4px 9px;
+    border-radius: 50%;
+    background: #48FF9B;
+    color: black;
+    font-size: 12px;
+}
+
+.uptodatePart .addPart {
+    position: absolute;
+    bottom: -20px;
+    left: -10px;
+    padding: 1px 6px;
+    border-radius: 50%;
+    background: white;
+    color: black;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.uptodatePart .removePart {
+    position: absolute;
+    bottom: -20px;
+    left: 12px;
+    padding: 1px 8px;
+    border-radius: 50%;
+    background: white;
+    color: black;
+    border: 1px solid #48FF9B;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.backorderPart {
+    white-space: pre-wrap;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+    width: 80%;
+    margin: 20px;
+    margin-bottom: 5px;
+    color: black;
+    font-weight: 400;
+    font-size: 11px;
+    border: 2px solid #0dcaf0;
+    z-index: 1;
+    transition: box-shadow 200ms cubic-bezier(0, 0, 0.2, 1);
+    box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+        0 2px 2px 0 rgba(0, 0, 0, 0.14),
+        0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
+.backorderPart .backorderBadge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 4px 9px;
+    border-radius: 50%;
+    background: #0dcaf0;
+    color: black;
+    font-size: 12px;
+}
+
+.backorderPart .addPart {
+    position: absolute;
+    bottom: -20px;
+    left: -10px;
+    padding: 1px 6px;
+    border-radius: 50%;
+    background: white;
+    color: #0dcaf0;
+    font-size: 12px;
+    font-weight: 900;
+}
+
+.backorderPart .removePart {
+    position: absolute;
+    bottom: -20px;
+    left: 12px;
+    padding: 1px 8px;
+    border-radius: 50%;
+    background: white;
+    color: #0dcaf0;
+    border: 1px solid #0dcaf0;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+
+.partsCard {
+    max-height: 303px;
+    overflow: auto;
+    overflow-y: auto;
+}
+
+.btn-outline-success {
+    color: #48FF9B;
+    border-color: #48FF9B;
+}
+
+
+/*///////////////////////////////////////////Get My Part CSS///////////////////////////////// */
+
+.showMyPart {
+    float: left;
+}
+
+::ng-deep .modal-content {
+    width: 1200px;
+    max-width: 1200px;
+    margin-left: -335px;
+}
+
+.showMyPartHeader {
+    position: relative;
+    box-shadow: 1px 1px 15px;
+    padding: 15px;
+    border-radius: 3%;
+    margin: 20px;
+    text-align: center;
+    background-color: #003358;
+    color: #48FF9B;
+}
+
+.partName {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.showMyPartFooter {
+    position: relative;
+    box-shadow: 1px 1px 15px;
+    padding: 15px;
+    border-radius: 3%;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: antiquewhite;
+}
+
+.aisle {
+    position: relative;
+    box-shadow: 1px 1px 15px;
+    padding: 15px;
+    border-radius: 3%;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background: aliceblue;
+}
+
+.shelf {
+    position: relative;
+    box-shadow: 1px 1px 15px;
+    padding: 15px;
+    border-radius: 3%;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background: aqua;
+
+}
+
+.bin {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 75px;
+    box-shadow: 1px 1px 15px black;
+    padding: 10px;
+    border-radius: 50%;
+    height: 75px;
+    margin: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    background: crimson;
+    color: white;
+
+}
+
+.binText {
+    margin-top: 15px;
+}

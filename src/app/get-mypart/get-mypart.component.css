@@ -1,0 +1,66 @@
+.showMyPartHeader {
+    box-shadow: 1px 1px 15px;
+    padding: 15px;
+    border-radius: 3%;
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    background-color: #003358;
+    color: #48FF9B;
+}
+
+.showMyPartFooter {
+    box-shadow: 1px 1px 15px;
+    padding: 15px;
+    border-radius: 3%;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: antiquewhite;
+}
+
+
+.aisle {
+    position: relative;
+    box-shadow: 1px 1px 15px;
+    padding: 15px;
+    border-radius: 3%;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background: aliceblue;
+}
+
+.shelf {
+    position: relative;
+    box-shadow: 1px 1px 15px;
+    padding: 15px;
+    border-radius: 3%;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background: aqua;
+
+}
+
+.bin {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 75px;
+    box-shadow: 1px 1px 15px black;
+    padding: 10px;
+    border-radius: 50%;
+    height: 75px;
+    margin: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    background: crimson;
+    color: white;
+
+}
+
+.binText {
+    margin-top: 15px;
+}
