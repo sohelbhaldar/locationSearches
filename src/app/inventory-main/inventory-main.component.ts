@@ -33,8 +33,12 @@ export class InventoryMainComponent implements OnInit {
   };
   // Modal
   partName = "";
+  partId: number;
   QuantityAvailable = 0;
-
+  siteFilter: any;
+  partFilter: any;
+  locationFilter: any;
+  filterSuccess: boolean;
   constructor(private shared: SharedService, private modalService: NgbModal, config: NgbModalConfig) {
     config.backdrop = 'static';
     config.keyboard = false;
@@ -55,17 +59,37 @@ export class InventoryMainComponent implements OnInit {
     console.log(StoragePath.split('-->'));
   }
 
-  ngOnChanges() {
-    console.log(this.site)
-
-  }
-
   ngOnInit(): void {
     this.shared.messageData$.subscribe(
       data => {
         this.SiteSelected = true;
         this.site = data;
         this.Site = this.partLocations.filter(m => m.SiteId == this.site);
+      }
+    );
+
+    this.shared.partNameIdData$.subscribe(
+      data => {
+        this.partId = parseInt(data);
+
+        const result = this.Site.filter((m: any) => {
+          this.locationFilter = m.Locations.filter((m: any) => {
+            this.partFilter = m.Parts.filter((m: any) => {
+              if (m.PartId == this.partId) {
+                this.filterSuccess = true;
+                return true;
+              }
+              else {
+                if (this.filterSuccess == true) { return true }
+                else return true;
+              }
+            })
+          })
+        });
+        console.log(this.filterSuccess);
+        console.log(result);
+        console.log("LocationArray: " + this.locationFilter);
+        console.log("partArray: " + this.partFilter);
       }
     );
 
