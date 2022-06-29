@@ -12,10 +12,11 @@
                             <form action="/action_page.php">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <input type="text" placeholder="Inventory Filter.." name="search">
+                                        <input [(ngModel)]="partId" type="text" placeholder="Inventory Filter.."
+                                            name="search">
                                     </div>
                                     <div class="col-md-6">
-                                        <button type="submit">Submit</button>
+                                        <button (click)="searchPart()">Submit</button>
                                     </div>
                                 </div>
                             </form>
@@ -41,13 +42,13 @@
             <div class="col-md-5">
                 <h4 class="themeGreen"><strong>Color Indications For Inventory Storage</strong></h4>
                 <button class="btn btn-outline-danger btn-sm  colorIndicationbtn">
-                    <strong> Low Stock Inventory</strong></button>
+                    <strong> Low Stock </strong></button>
                 <button class="btn btn-outline-success btn-sm  colorIndicationbtn">
-                    <Strong> Stable Inventory</Strong></button>
+                    <Strong> Stable </Strong></button>
                 <button class="btn btn-outline-info btn-sm  colorIndicationbtn">
-                    <strong> Incoming Inventory</strong></button>
+                    <strong> On Order </strong></button>
                 <button class="btn btn-outline-primary btn-sm  colorIndicationbtn">
-                    <strong> Non Stock Inventory</strong></button>
+                    <strong> Non Stock </strong></button>
             </div>
         </div>
     </div>
