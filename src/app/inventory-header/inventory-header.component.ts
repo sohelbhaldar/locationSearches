@@ -13,13 +13,18 @@ export class InventoryHeaderComponent implements OnInit {
   sites = SITE;
   siteValue!: FormGroup;
   siteCode?: string = ""
-
+  partName: string;
+  partId: number;
   constructor(private shared: SharedService, private formBuilder: FormBuilder) { }
 
   ngOnInit(): void {
     this.siteValue = this.formBuilder.group({
       site: ['Choose Site Name']
     })
+  }
+
+  searchPart() {
+    this.shared.setPartIdValues(this.partId);
   }
 
   changeSite(e: any) {
