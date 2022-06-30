@@ -21,211 +21,26 @@
             <div class="col-md">
                 <div class="row">
                     <div class="col-md">
-                        {{store.locationName}} : {{store.building}} ----> {{store.store}}
+                        {{store.locationName}} : {{store.store}}
                     </div>
                 </div>
-                <div class="">
-                    <div class=" aisle d-flex flex-wrap">
-                        {{store.aisle}}
-                        <div class="d-flex flex-wrap">
-                            <div class="shelf">
-                                {{store.shelf}}
-                                <div class="d-flex flex-row">
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                {{store.bin}}
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                <div>
+                    <div class="aisle" *ngFor='let in of counter(maxaisle+1) ;let k = index'>
+                        <div [class.blink_me]="(k+1 == aisle)">
+                            Aisle : {{k+1}}
                         </div>
-                    </div>
-                    <div class=" aisle d-flex flex-wrap">
-                        Aisle
-                        <div class="d-flex flex-wrap">
-                            <div class="shelf">
-                                Shelf 1
-                                <div class="d-flex flex-row">
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
+                        <div class="shelfWrap">
+                            <div fxLayout="row wrap ">
+                                <div fxFlex="45%" class="shelf" *ngFor='let in1 of counter(maxshelf+1) ;let j = index'>
+                                    <div [class.blink_me]="( j+1 == shelf && k+1 == aisle)">
+                                        Shelf : {{j+1}}
                                     </div>
                                     <div>
-                                        <div class="bin">
+                                        <div class="bin blink_me"
+                                            [class.blink_me]="(i+1 == bin && j+1 == shelf && k+1 == aisle)"
+                                            *ngFor='let in of counter(maxbin+1) ;let i = index'>
                                             <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="shelf">
-                                Shelf 2
-                                <div class="d-flex flex-row">
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=" aisle d-flex flex-wrap">
-                        Aisle
-                        <div class="d-flex flex-wrap">
-                            <div class="shelf">
-                                Shelf 1
-                                <div class="d-flex flex-row">
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="shelf">
-                                Shelf 2
-                                <div class="d-flex flex-row">
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
+                                                Bin:{{i+1}}
                                             </div>
                                         </div>
                                     </div>
@@ -324,8 +139,7 @@
                                             </div>
                                         </div>
                                     </div>'>
-                                        <div
-                                            (click)="open(content,part.Name,part.StoragePath,part.PrimaryLocationName)">
+                                        <div (click)="open(content,part.Name,part.StoragePath,location)">
                                             <span maxlength="10">{{part.Name}}</span>
                                             <span class="lowStockBadge">{{part.QuantityAvailable}}</span>
                                         </div>
@@ -374,7 +188,7 @@
                                                 </div>
                                             </div>'>
                                             <span
-                                                (click)="open(content,part.Name,part.StoragePath,part.PrimaryLocationName)">{{part.Name}}</span>
+                                                (click)="open(content,part.Name,part.StoragePath,location)">{{part.Name}}</span>
                                             <span class="uptodateBadge">{{part.QuantityAvailable}}</span>
                                             <button class="btn btn-outline-success addPart">+</button>
                                             <button class="btn btn-outline-success removePart">-</button>
@@ -421,7 +235,7 @@
                                             </div>
                                         </div>'>
                                             <span
-                                                (click)="open(content,part.Name,part.StoragePath,part.PrimaryLocationName)">{{part.Name}}</span>
+                                                (click)="open(content,part.Name,part.StoragePath,location)">{{part.Name}}</span>
                                             <span class="backorderBadge">{{part.QuantityOnBackOrder}}</span>
                                             <button class="btn btn-outline-info addPart">+</button>
                                             <button class="btn btn-outline-info removePart">-</button>
@@ -439,6 +253,25 @@
         <div class="locationHeader">
             <div class="otherName">
                 Other
+            </div>
+        </div>
+        <div class="card zeroStockPanel">
+            <div class="card zeroStockHeader">
+                <div class="zeroStock">
+                    Zero Stock Inventory
+                </div>
+            </div>
+            <div class="zeroStockFooter partsCard" cdkDropList>
+                <div *ngFor="let part of nonStockParts" cdkDrag>
+                    <div class="lowStock">
+                        <button href="#" class=" btn btn-outline-danger lowStockPart">
+                            <span maxlength="10">{{part.partName}}</span>
+                            <span class="lowStockBadge">0</span>
+                            <button class="btn btn-outline-danger addPart">+</button>
+                            <button class="btn btn-outline-danger removePart">-</button>
+                        </button>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="card nonStockPanel">
@@ -461,24 +294,5 @@
             </div>
         </div>
 
-        <div class="card zeroStockPanel">
-            <div class="card zeroStockHeader">
-                <div class="zeroStock">
-                    Zero Stock Inventory
-                </div>
-            </div>
-            <div class="zeroStockFooter partsCard" cdkDropList>
-                <div *ngFor="let part of nonStockParts" cdkDrag>
-                    <div class="lowStock">
-                        <button href="#" class=" btn btn-outline-danger lowStockPart">
-                            <span maxlength="10">{{part.partName}}</span>
-                            <span class="lowStockBadge">0</span>
-                            <button class="btn btn-outline-danger addPart">+</button>
-                            <button class="btn btn-outline-danger removePart">-</button>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </div>

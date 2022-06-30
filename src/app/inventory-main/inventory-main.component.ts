@@ -10,6 +10,7 @@ import { storage } from '../Mocks/storage-mock';
 import { CdkDragDrop, transferArrayItem, moveItemInArray } from '@angular/cdk/drag-drop';
 import { part } from '../Interfaces/part';
 import { NgToastService } from 'ng-angular-popup';
+import { storageLocationMax } from '../Interfaces/storageLocationMax';
 
 @Component({
   selector: 'app-inventory-main',
@@ -32,10 +33,32 @@ export class InventoryMainComponent implements OnInit {
     locationName: "",
     building: "",
     store: "",
-    aisle: "",
-    shelf: "",
-    bin: "",
+    aisle: 0,
+    shelf: 0,
+    bin: 0,
   };
+  aisle: number;
+  shelf: number;
+  bin: number;
+
+  storeLocationValues: any = {
+    locationName: "",
+    building: 0,
+    store: 0,
+    aisle: 0,
+    shelf: 0,
+    bin: 0,
+  };
+
+  locationsContainer: any = [];
+  maxlocationName = 0;
+  maxbuilding = 0;
+  maxstorerooms = 0;
+  maxaisle = 0;
+  maxshelf = 0;
+  maxbin = 0;
+
+  locationMaxStorage: any;
   // Modal
   partName = "";
   partId: number;
@@ -44,25 +67,43 @@ export class InventoryMainComponent implements OnInit {
   partFilter: any;
   locationFilter: any;
   filterSuccess: boolean;
+  location = 0;
+  part = 0;
+  dictionaryStorage: any;
 
   constructor(private toast: NgToastService, private shared: SharedService, private modalService: NgbModal, config: NgbModalConfig) {
     config.backdrop = 'static';
     config.keyboard = false;
   }
 
+  counter(i: number) {
+    return new Array(i);
+  }
 
-  open(content: any, partName: string, StoragePath: string, locationName: string) {
+  open(content: any, partName: string, StoragePath: string, location: any) {
     this.modalService.open(content);
     this.partName = partName;
     console.log("StoragePath: " + StoragePath);
+    const locationData = this.locationsContainer.filter((m: any) => m.locationName == location.LocationName);
+    this.maxaisle = locationData[0].aisle;
+    this.maxbin = locationData[0].bin;
+    this.maxshelf = locationData[0].shelf;
+    this.maxstorerooms = locationData[0].store;
+
+    console.log(locationData);
     this.storagePath = StoragePath.split('-->');
     if (this.storagePath.length < 6) {
-      this.store.locationName = locationName;
+      this.store.locationName = location.LocationName;
       this.store.building = this.storagePath[0];
       this.store.store = this.storagePath[1];
-      this.store.aisle = this.storagePath[2];
-      this.store.shelf = this.storagePath[3];
-      this.store.bin = this.storagePath[4];
+      //this.store.aisle = this.storagePath[2];
+      //this.store.shelf = this.storagePath[3];
+      //this.store.bin = this.storagePath[4];
+
+      this.aisle = parseInt(this.storagePath[2].split(':')[1]);
+      this.shelf = parseInt(this.storagePath[3].split(':')[1]);
+      this.bin = parseInt(this.storagePath[4].split(':')[1]);
+      console.log("Aisle : " + this.aisle);
     }
   }
 
@@ -98,7 +139,53 @@ export class InventoryMainComponent implements OnInit {
         this.SiteSelected = true;
         this.site = data;
         this.Site = this.partLocations.filter(m => m.SiteId == this.site);
+        this.Site[0].Locations.forEach((element: any) => {
+          var storeLocationValues = {
+            locationName: "",
+            building: 0,
+            store: 0,
+            aisle: 0,
+            shelf: 0,
+            bin: 0,
+          };
+          storeLocationValues.locationName = element.LocationName;
+
+          element.Parts.forEach((element2: any) => {
+            this.storagePath = element2.StoragePath.split('-->'); //building: 02 --> store: 05 -->  aisle: 10 --> shelf: 03 --> bin: 03
+
+            var building = parseInt(this.storagePath[0].split(':')[1]);
+            var storeValue = parseInt(this.storagePath[1].split(':')[1]);
+            var aisle = parseInt(this.storagePath[2].split(':')[1]);
+            var shelf = parseInt(this.storagePath[3].split(':')[1]);
+            var bin = parseInt(this.storagePath[4].split(':')[1]);
+
+
+            if (building > this.maxbuilding) {
+              storeLocationValues.building = building;
+              this.maxbuilding = building;
+            }
+
+            if (storeValue > storeLocationValues.store) {
+              storeLocationValues.store = storeValue;
+            }
+
+            if (aisle > storeLocationValues.aisle) {
+              storeLocationValues.aisle = aisle;
+            }
+
+            if (shelf > storeLocationValues.shelf) {
+              storeLocationValues.shelf = shelf;
+            }
+
+            if (bin > storeLocationValues.bin) {
+              storeLocationValues.bin = bin;
+            }
+          });
+          this.locationsContainer.push(storeLocationValues);
+
+        });
         console.log(this.Site);
+        console.log(this.locationsContainer);
       }
     );
 
@@ -144,5 +231,50 @@ export class InventoryMainComponent implements OnInit {
       { partName: "P993403", partNum: 1237, partQty: 14 },
       { partName: "P_!@$%wewew", partNum: 1238, partQty: 134 },
     ]
+
+    this.Site[0].Locations.forEach((element: any) => {
+      var storeLocationValues = {
+        locationName: "",
+        building: 0,
+        store: 0,
+        aisle: 0,
+        shelf: 0,
+        bin: 0,
+      };
+      storeLocationValues.locationName = element.LocationName;
+
+      element.Parts.forEach((element2: any) => {
+        this.storagePath = element2.StoragePath.split('-->'); //building: 02 --> store: 05 -->  aisle: 10 --> shelf: 03 --> bin: 03
+
+        var building = parseInt(this.storagePath[0].split(':')[1]);
+        var storeValue = parseInt(this.storagePath[1].split(':')[1]);
+        var aisle = parseInt(this.storagePath[2].split(':')[1]);
+        var shelf = parseInt(this.storagePath[0].split(':')[1]);
+        var bin = parseInt(this.storagePath[0].split(':')[1]);
+
+
+        if (building > storeLocationValues.building) {
+          storeLocationValues.building = building;
+        }
+
+        if (storeValue > storeLocationValues.store) {
+          storeLocationValues.store = storeValue;
+        }
+
+        if (aisle > storeLocationValues.aisle) {
+          storeLocationValues.aisle = aisle;
+        }
+
+        if (shelf > storeLocationValues.shelf) {
+          storeLocationValues.shelf = shelf;
+        }
+
+        if (bin > storeLocationValues.bin) {
+          storeLocationValues.bin = bin;
+        }
+      });
+      this.locationsContainer.push(storeLocationValues);
+      console.log("Container : " + this.locationsContainer[0]);
+    });
   }
 }

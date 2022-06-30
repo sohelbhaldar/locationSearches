@@ -1,7 +1,7 @@
-export interface storagePath {
+export interface storageLocationMax {
     locationName: string,
-    building: string,
-    store: string,
+    building: number,
+    store: number,
     aisle: number,
     shelf: number,
     bin: number,
