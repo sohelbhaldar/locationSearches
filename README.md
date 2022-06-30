@@ -4,9 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Install
 
-Install Git /n
-Install Node - 12.22.12 /n
-This project was generated with version 13.0.4. so do `npm install -g @angular/cli@13.0.4` 
+`Install Git`/////
+`Install Node - 12.22.12` /////
+This project was generated with version 13.0.4 so do `npm install -g @angular/cli@13.0.4` 
 
 ## Development server
 
