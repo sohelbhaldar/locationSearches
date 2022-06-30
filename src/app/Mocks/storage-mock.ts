@@ -5,8 +5,8 @@ export const storage: storagePath[] = [
         locationName: "",
         building: "",
         store: "",
-        aisle: "",
-        shelf: "",
-        bin: "",
+        aisle: 0,
+        shelf: 0,
+        bin: 0,
     },
 ]
