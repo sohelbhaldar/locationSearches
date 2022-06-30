@@ -29,6 +29,7 @@ export class InventoryMainComponent implements OnInit {
   SiteSelected: boolean = false;
   storagePath: any;
   store: storagePath = {
+    locationName: "",
     building: "",
     store: "",
     aisle: "",
@@ -50,12 +51,13 @@ export class InventoryMainComponent implements OnInit {
   }
 
 
-  open(content: any, partName: string, StoragePath: string) {
+  open(content: any, partName: string, StoragePath: string, locationName: string) {
     this.modalService.open(content);
     this.partName = partName;
     console.log("StoragePath: " + StoragePath);
     this.storagePath = StoragePath.split('-->');
     if (this.storagePath.length < 6) {
+      this.store.locationName = locationName;
       this.store.building = this.storagePath[0];
       this.store.store = this.storagePath[1];
       this.store.aisle = this.storagePath[2];
@@ -68,9 +70,14 @@ export class InventoryMainComponent implements OnInit {
     this.modalService.open(content).result.then((result) => {
       console.log("result: " + result);
     }, (reason) => {
-      console.log("reason: " + reason);
+      console.log("reason: " + reason, event);
       if (reason === "Yes") {
         moveItemInArray(event.container.data, event.previousIndex, event.currentIndex);
+        const pickedItem = event.container.data.filter((m: any) => m.PartId === event.previousContainer.data[event.previousIndex].PartId)
+        console.log(pickedItem);
+        if (event.currentIndex == 0) {
+          event.currentIndex = 1;
+        }
         transferArrayItem(
           event.previousContainer.data,
           event.container.data,
@@ -83,7 +90,6 @@ export class InventoryMainComponent implements OnInit {
         this.toast.error({ detail: "Failed", summary: 'Item Transfer Failed', duration: 2000 });
       }
     });
-    console.log(event)
   }
 
   ngOnInit(): void {
@@ -114,10 +120,7 @@ export class InventoryMainComponent implements OnInit {
         //     })
         //   })
         // });
-        console.log(this.filterSuccess);
-        //console.log(result);
-        console.log("LocationArray: " + this.locationFilter);
-        console.log("partArray: " + this.partFilter);
+        console.log("filter change" + this.Site);
       }
     );
 
