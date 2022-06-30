@@ -498,11 +498,15 @@
 }
 
 .blink_me {
-    animation: blinker 1s linear infinite;
+    animation: blinker 1.2s linear infinite;
 }
 
 @keyframes blinker {
     50% {
         opacity: 0;
     }
+}
+
+.store {
+    margin-top: 10px;
 }
