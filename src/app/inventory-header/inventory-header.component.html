@@ -13,10 +13,7 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <input [(ngModel)]="partId" type="text" placeholder="Inventory Filter.."
-                                            name="search">
-                                    </div>
-                                    <div class="col-md-6">
-                                        <button (click)="searchPart()">Submit</button>
+                                            name="search" (keyup)="searchPart()">
                                     </div>
                                 </div>
                             </form>

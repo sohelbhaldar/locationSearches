@@ -121,7 +121,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -174,7 +174,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -227,7 +227,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -280,7 +280,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -333,7 +333,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -386,7 +386,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -439,7 +439,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -492,7 +492,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -545,7 +545,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -598,7 +598,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -667,7 +667,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -722,7 +722,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -777,7 +777,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -832,7 +832,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -887,7 +887,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -941,7 +941,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -996,7 +996,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1051,7 +1051,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1106,7 +1106,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1161,7 +1161,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1215,7 +1215,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -1284,7 +1284,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1339,7 +1339,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1394,7 +1394,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1449,7 +1449,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1504,7 +1504,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1559,7 +1559,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1614,7 +1614,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1669,7 +1669,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1724,7 +1724,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1779,7 +1779,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1834,7 +1834,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -1903,7 +1903,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -1958,7 +1958,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2013,7 +2013,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2067,7 +2067,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2122,7 +2122,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2177,7 +2177,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2231,7 +2231,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2286,7 +2286,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2341,7 +2341,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2394,7 +2394,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2447,7 +2447,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -2516,7 +2516,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2569,7 +2569,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2624,7 +2624,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2679,7 +2679,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2732,7 +2732,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2787,7 +2787,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2842,7 +2842,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2895,7 +2895,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -2948,7 +2948,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3001,7 +3001,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3056,7 +3056,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -3123,7 +3123,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3176,7 +3176,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3229,7 +3229,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3282,7 +3282,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3335,7 +3335,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3388,7 +3388,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3441,7 +3441,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3494,7 +3494,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3547,7 +3547,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3600,7 +3600,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3653,7 +3653,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -3720,7 +3720,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3773,7 +3773,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3826,7 +3826,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3879,7 +3879,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3932,7 +3932,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -3985,7 +3985,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4038,7 +4038,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4091,7 +4091,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4144,7 +4144,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4197,7 +4197,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4250,7 +4250,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -4317,7 +4317,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4370,7 +4370,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4423,7 +4423,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4476,7 +4476,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4529,7 +4529,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4582,7 +4582,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4635,7 +4635,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4688,7 +4688,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4741,7 +4741,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4794,7 +4794,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4847,7 +4847,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -4914,7 +4914,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -4967,7 +4967,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5020,7 +5020,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5073,7 +5073,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5126,7 +5126,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5179,7 +5179,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5232,7 +5232,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5285,7 +5285,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5338,7 +5338,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5391,7 +5391,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5444,7 +5444,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -5511,7 +5511,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5564,7 +5564,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5617,7 +5617,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5670,7 +5670,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5723,7 +5723,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5776,7 +5776,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5829,7 +5829,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5882,7 +5882,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5935,7 +5935,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -5988,7 +5988,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6041,7 +6041,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -6180,7 +6180,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6233,7 +6233,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6286,7 +6286,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6339,7 +6339,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6392,7 +6392,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6445,7 +6445,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6498,7 +6498,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6551,7 +6551,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6604,7 +6604,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6657,7 +6657,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6710,7 +6710,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -6777,7 +6777,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6830,7 +6830,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6883,7 +6883,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6936,7 +6936,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -6989,7 +6989,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7042,7 +7042,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7095,7 +7095,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7148,7 +7148,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7201,7 +7201,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7254,7 +7254,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7307,7 +7307,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -7374,7 +7374,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7427,7 +7427,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7480,7 +7480,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7533,7 +7533,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7586,7 +7586,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7639,7 +7639,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7692,7 +7692,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7745,7 +7745,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7798,7 +7798,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7851,7 +7851,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -7904,7 +7904,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -7971,7 +7971,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8024,7 +8024,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8077,7 +8077,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8130,7 +8130,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8183,7 +8183,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8236,7 +8236,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8289,7 +8289,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8342,7 +8342,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8395,7 +8395,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8448,7 +8448,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8501,7 +8501,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -8568,7 +8568,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8621,7 +8621,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8674,7 +8674,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8727,7 +8727,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8780,7 +8780,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8833,7 +8833,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8886,7 +8886,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8939,7 +8939,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -8992,7 +8992,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9045,7 +9045,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9098,7 +9098,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -9165,7 +9165,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9218,7 +9218,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9271,7 +9271,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9324,7 +9324,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9377,7 +9377,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9430,7 +9430,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9483,7 +9483,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9536,7 +9536,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9589,7 +9589,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9642,7 +9642,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9695,7 +9695,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -9762,7 +9762,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9815,7 +9815,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9868,7 +9868,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9921,7 +9921,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -9974,7 +9974,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10027,7 +10027,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10080,7 +10080,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10133,7 +10133,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10186,7 +10186,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10239,7 +10239,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10292,7 +10292,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -10359,7 +10359,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10412,7 +10412,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10465,7 +10465,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10518,7 +10518,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10571,7 +10571,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10624,7 +10624,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10677,7 +10677,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10730,7 +10730,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10783,7 +10783,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10836,7 +10836,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -10889,7 +10889,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -11021,7 +11021,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11074,7 +11074,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11127,7 +11127,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11180,7 +11180,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11233,7 +11233,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11286,7 +11286,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11339,7 +11339,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11392,7 +11392,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11445,7 +11445,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11498,7 +11498,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11551,7 +11551,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -11618,7 +11618,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11671,7 +11671,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11724,7 +11724,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11777,7 +11777,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11830,7 +11830,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11883,7 +11883,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11936,7 +11936,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -11989,7 +11989,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12042,7 +12042,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12095,7 +12095,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12148,7 +12148,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -12222,7 +12222,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12275,7 +12275,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12328,7 +12328,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12381,7 +12381,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12434,7 +12434,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12487,7 +12487,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12540,7 +12540,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12593,7 +12593,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12646,7 +12646,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12699,7 +12699,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12752,7 +12752,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -12819,7 +12819,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12872,7 +12872,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12925,7 +12925,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -12978,7 +12978,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13031,7 +13031,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13084,7 +13084,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13137,7 +13137,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13190,7 +13190,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13243,7 +13243,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13296,7 +13296,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13349,7 +13349,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -13416,7 +13416,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13469,7 +13469,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13522,7 +13522,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13575,7 +13575,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13628,7 +13628,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13681,7 +13681,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13734,7 +13734,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13787,7 +13787,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13840,7 +13840,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13893,7 +13893,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -13946,7 +13946,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -14013,7 +14013,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14066,7 +14066,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14119,7 +14119,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14172,7 +14172,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14225,7 +14225,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14278,7 +14278,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14331,7 +14331,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14384,7 +14384,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14437,7 +14437,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14490,7 +14490,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14543,7 +14543,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -14610,7 +14610,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14663,7 +14663,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14716,7 +14716,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14769,7 +14769,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14822,7 +14822,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14875,7 +14875,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14928,7 +14928,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -14981,7 +14981,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15034,7 +15034,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15087,7 +15087,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15140,7 +15140,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -15207,7 +15207,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15260,7 +15260,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15313,7 +15313,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15366,7 +15366,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15419,7 +15419,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15472,7 +15472,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15525,7 +15525,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15578,7 +15578,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15631,7 +15631,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15684,7 +15684,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15737,7 +15737,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -15804,7 +15804,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15857,7 +15857,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15910,7 +15910,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -15963,7 +15963,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16016,7 +16016,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16069,7 +16069,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16122,7 +16122,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16175,7 +16175,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16228,7 +16228,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16281,7 +16281,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16334,7 +16334,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -16401,7 +16401,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16454,7 +16454,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16507,7 +16507,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16560,7 +16560,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16613,7 +16613,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16666,7 +16666,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16719,7 +16719,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16772,7 +16772,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16825,7 +16825,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16878,7 +16878,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -16931,7 +16931,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -16998,7 +16998,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17051,7 +17051,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17104,7 +17104,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17157,7 +17157,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17210,7 +17210,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17263,7 +17263,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17316,7 +17316,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17369,7 +17369,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17422,7 +17422,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17475,7 +17475,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17528,7 +17528,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]
@@ -17660,7 +17660,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17713,7 +17713,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17766,7 +17766,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17819,7 +17819,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17872,7 +17872,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17925,7 +17925,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -17978,7 +17978,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -18031,7 +18031,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -18084,7 +18084,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -18137,7 +18137,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                     {
@@ -18190,7 +18190,7 @@ export const SITES: Site[] = [
                         StorageValue3: null,
                         StorageValue4: null,
                         StorageValue5: null,
-                        StoragePath: "",
+                        StoragePath: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                         PartStorageDomain: "Building:02 --> Store:05 --> Aisle:02 --> Shelf:02 --> Bin:05",
                     },
                 ]

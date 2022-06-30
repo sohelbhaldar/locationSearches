@@ -10,7 +10,7 @@ export class FilterPartPipe implements PipeTransform {
 
   transform(part: part[], partId: number) {
 
-    if (part.length === 0 || partId === 0 || typeof (partId) === "undefined") {
+    if (part.length === 0 || partId < 1 || typeof (partId) === "undefined" || Number.isNaN(partId)) {
       return part;
     }
     else {
