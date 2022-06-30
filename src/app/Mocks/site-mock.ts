@@ -3,19 +3,19 @@ import { Site } from '../Interfaces/Site'
 export const SITE: Site[] = [
     {
         SiteId: 1,
-        SiteName: "India",
+        SiteName: "Warehouse 1",
         SiteNo: "007",
         Locations: []
     },
     {
         SiteId: 2,
-        SiteName: "US",
+        SiteName: "Warehouse 2",
         SiteNo: "008",
         Locations: []
     },
     {
         SiteId: 3,
-        SiteName: "Australia",
+        SiteName: "Warehouse 3",
         SiteNo: "009",
         Locations: []
     },
