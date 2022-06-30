@@ -14,7 +14,7 @@ import { MatTooltipModule } from '@angular/material/tooltip';
 import { TooltipModule } from 'ng2-tooltip-directive';
 import { GetMypartComponent } from './get-mypart/get-mypart.component';
 import { FilterPartPipe } from './filters/filter-part.pipe';
-
+import { NgToastModule } from 'ng-angular-popup'
 
 @NgModule({
   declarations: [
@@ -34,6 +34,7 @@ import { FilterPartPipe } from './filters/filter-part.pipe';
     DragDropModule,
     MatTooltipModule,
     TooltipModule,
+    NgToastModule
   ],
   providers: [],
   bootstrap: [AppComponent]

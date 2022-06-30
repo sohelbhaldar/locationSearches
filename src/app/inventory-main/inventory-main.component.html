@@ -25,24 +25,24 @@
                     </div>
                 </div>
                 <div class="">
-                    <div class=" aisle d-flex flex-sm-row">
+                    <div class=" aisle d-flex flex-wrap">
                         {{store.aisle}}
-                        <div class="d-flex flex-sm-row">
+                        <div class="d-flex flex-wrap">
                             <div class="shelf">
                                 Shelf 1
                                 <div class="d-flex flex-row">
                                     <div>
                                         <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
+                                        </div>
+                                        <div class="binText">
+                                            Bin 1
                                         </div>
                                     </div>
                                     <div>
                                         <div class="bin">
-                                            <div class="binText">
-                                                Bin 1
-                                            </div>
+                                        </div>
+                                        <div class="binText">
+                                            Bin 1
                                         </div>
                                     </div>
                                     <div>
@@ -103,9 +103,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class=" aisle d-flex flex-sm-row">
+                    <div class=" aisle d-flex flex-wrap">
                         Aisle
-                        <div class="d-flex flex-sm-row">
+                        <div class="d-flex flex-wrap">
                             <div class="shelf">
                                 Shelf 1
                                 <div class="d-flex flex-row">
@@ -181,9 +181,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class=" aisle d-flex flex-sm-row">
+                    <div class=" aisle d-flex flex-wrap">
                         Aisle
-                        <div class="d-flex flex-sm-row">
+                        <div class="d-flex flex-wrap">
                             <div class="shelf">
                                 Shelf 1
                                 <div class="d-flex flex-row">
@@ -265,6 +265,33 @@
     </div>
 </ng-template>
 
+<ng-template #confirmTransfer let-c="close" let-d="dismiss">
+    <div>
+        <div class="row showMyPartHeader">
+            <div class="col-md-10">
+                <div class="row ">
+                    <div class="col-md">
+                        <div class="partName">
+                            Are you Sure you want to tranfer the part ?
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-1">
+                <div class="crossButton">
+                    <button type="button" class="btn btn-primary" aria-label="Close" (click)="d('Yes')">YES</button>
+                </div>
+            </div>
+            <div class="col-md-1">
+                <div class="crossButton">
+                    <button type="button" class="btn btn-primary" aria-label="Close" (click)="d('No')">NO</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</ng-template>
+
 <div class="row locationModel">
     <div class="row locationHeaderName2" *ngIf="!SiteSelected">
         <div class="locationNameHead2">
@@ -277,7 +304,7 @@
                 Locations
             </div>
         </div>
-        <div fxLayout="row wrap">
+        <div fxLayout="row wrap" class="d-flex flex-row">
             <div fxFlex="50%" *ngFor="let location of Site[0].Locations">
                 <div class="locationCard" *ngIf="location.Parts.length > 0">
                     <div class="locationHeader">
@@ -285,8 +312,9 @@
                             {{location.LocationName}}
                         </div>
                     </div>
-                    <div class="row partsCard">
-                        <div class="col-md-4 lowStock">
+                    <div class="row partsCard ">
+                        <div class="col-md-4 lowStock" cdkDropList [cdkDropListData]="location.Parts"
+                            (cdkDropListDropped)="drop($event,confirmTransfer)">
                             <div *ngFor="let part of location.Parts | filterPart: partId" cdkDrag>
                                 <div class="lowStock">
                                     <button *ngIf="part.MinLevel > part.QuantityAvailable" href="#" id="{{part.PartNo}}"
@@ -332,9 +360,10 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 uptodate">
+                        <div class="col-md-4 uptodate" cdkDropList [cdkDropListData]="location.Parts"
+                            (cdkDropListDropped)="drop($event,confirmTransfer)">
                             <div class="uptodate">
-                                <div *ngFor="let part of location.Parts | filterPart: partId">
+                                <div *ngFor="let part of location.Parts | filterPart: partId" cdkDrag>
                                     <div class="uptodate">
                                         <button *ngIf="part.QuantityAvailable > 0" href="#"
                                             class=" btn uptodatePart btn-outline-success " tooltip='<div class="partToolTip">
@@ -379,9 +408,10 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 backorder">
+                        <div class="col-md-4 backorder" cdkDropList [cdkDropListData]="location.Parts"
+                            (cdkDropListDropped)="drop($event,confirmTransfer)">
                             <div class="backorder">
-                                <div *ngFor="let part of location.Parts | filterPart: partId">
+                                <div *ngFor="let part of location.Parts | filterPart: partId" cdkDrag>
                                     <div *ngIf="part.QuantityOnBackOrder > 0" class="backorder">
                                         <button href="#" class=" btn btn-outline-info backorderPart" tooltip='<div class="partToolTip">
                                             <div class="row">
