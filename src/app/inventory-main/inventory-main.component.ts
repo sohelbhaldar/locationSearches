@@ -7,6 +7,9 @@ import { NgbModalConfig, NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { storagePath } from '../Interfaces/storagePath';
 import { storage } from '../Mocks/storage-mock';
+import { CdkDragDrop, transferArrayItem, moveItemInArray } from '@angular/cdk/drag-drop';
+import { part } from '../Interfaces/part';
+import { NgToastService } from 'ng-angular-popup';
 
 @Component({
   selector: 'app-inventory-main',
@@ -20,6 +23,7 @@ export class InventoryMainComponent implements OnInit {
   nonStockParts: any;
   displayLowPartDetails = false;
   site = 0;
+  myparts: part[] = [];
   partLocations: Site[] = SITES;
   Site: any;
   SiteSelected: boolean = false;
@@ -39,7 +43,8 @@ export class InventoryMainComponent implements OnInit {
   partFilter: any;
   locationFilter: any;
   filterSuccess: boolean;
-  constructor(private shared: SharedService, private modalService: NgbModal, config: NgbModalConfig) {
+
+  constructor(private toast: NgToastService, private shared: SharedService, private modalService: NgbModal, config: NgbModalConfig) {
     config.backdrop = 'static';
     config.keyboard = false;
   }
@@ -48,15 +53,37 @@ export class InventoryMainComponent implements OnInit {
   open(content: any, partName: string, StoragePath: string) {
     this.modalService.open(content);
     this.partName = partName;
+    console.log("StoragePath: " + StoragePath);
     this.storagePath = StoragePath.split('-->');
-    if (this.storagePath.lengh < 6) {
-      this.store.building = StoragePath[0];
-      this.store.store = StoragePath[1];
-      this.store.aisle = StoragePath[2];
-      this.store.shelf = StoragePath[3];
-      this.store.bin = StoragePath[4];
+    if (this.storagePath.length < 6) {
+      this.store.building = this.storagePath[0];
+      this.store.store = this.storagePath[1];
+      this.store.aisle = this.storagePath[2];
+      this.store.shelf = this.storagePath[3];
+      this.store.bin = this.storagePath[4];
     }
-    console.log(StoragePath.split('-->'));
+  }
+
+  drop(event: CdkDragDrop<part[]>, content: any) {
+    this.modalService.open(content).result.then((result) => {
+      console.log("result: " + result);
+    }, (reason) => {
+      console.log("reason: " + reason);
+      if (reason === "Yes") {
+        moveItemInArray(event.container.data, event.previousIndex, event.currentIndex);
+        transferArrayItem(
+          event.previousContainer.data,
+          event.container.data,
+          event.previousIndex,
+          event.currentIndex
+        );
+        this.toast.success({ detail: "SUCCESS", summary: 'Item Transfered Successfully', duration: 2000 });
+      }
+      else {
+        this.toast.error({ detail: "Failed", summary: 'Item Transfer Failed', duration: 2000 });
+      }
+    });
+    console.log(event)
   }
 
   ngOnInit(): void {
@@ -65,6 +92,7 @@ export class InventoryMainComponent implements OnInit {
         this.SiteSelected = true;
         this.site = data;
         this.Site = this.partLocations.filter(m => m.SiteId == this.site);
+        console.log(this.Site);
       }
     );
 
@@ -72,22 +100,22 @@ export class InventoryMainComponent implements OnInit {
       data => {
         this.partId = parseInt(data);
 
-        const result = this.Site.filter((m: any) => {
-          this.locationFilter = m.Locations.filter((m: any) => {
-            this.partFilter = m.Parts.filter((m: any) => {
-              if (m.PartId == this.partId) {
-                this.filterSuccess = true;
-                return true;
-              }
-              else {
-                if (this.filterSuccess == true) { return true }
-                else return true;
-              }
-            })
-          })
-        });
+        // const result = this.Site.filter((m: any) => {
+        //   this.locationFilter = m.Locations.filter((m: any) => {
+        //     this.partFilter = m.Parts.filter((m: any) => {
+        //       if (m.PartId == this.partId) {
+        //         this.filterSuccess = true;
+        //         return true;
+        //       }
+        //       else {
+        //         if (this.filterSuccess == true) { return true }
+        //         else return true;
+        //       }
+        //     })
+        //   })
+        // });
         console.log(this.filterSuccess);
-        console.log(result);
+        //console.log(result);
         console.log("LocationArray: " + this.locationFilter);
         console.log("partArray: " + this.partFilter);
       }
@@ -100,9 +128,6 @@ export class InventoryMainComponent implements OnInit {
       { partName: "P993403", partNum: 1237, partQty: 14 },
       { partName: "P_!@$%wewew", partNum: 1238, partQty: 134 },
       { partName: "P83943984", partNum: 1239, partQty: 12 }
-    ];
-    this.locations = [
-      "Location 1", "Location 2", "Location 3", "Location 4", "Location 5", "Location 6"
     ];
     this.nonStockParts = [
       { partName: "P12121", partNum: 1234, partQty: 14 },
@@ -117,15 +142,4 @@ export class InventoryMainComponent implements OnInit {
       { partName: "P_!@$%wewew", partNum: 1238, partQty: 134 },
     ]
   }
-
-  mouseOverPart(event: any) {
-    console.log(event.target.id);
-
-  }
-
-  mouseOutPart(event: any) {
-    console.log(event.target.id);
-
-  }
-
 }
