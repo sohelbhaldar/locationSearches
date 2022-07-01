@@ -88,14 +88,14 @@
         </div>
     </div>
     <div class="col-md-9">
-        <div class="locationHeaderName" *ngIf="SiteSelected">
+        <div class="locationHeaderName animated" *ngIf="SiteSelected">
             <div class="locationNameHead">
                 Locations
             </div>
         </div>
         <div fxLayout="row wrap" class="d-flex flex-row">
             <div fxFlex="50%" *ngFor="let location of Site[0].Locations">
-                <div class="locationCard" *ngIf="location.Parts.length > 0">
+                <div class="locationCard animated" *ngIf="location.Parts.length > 0">
                     <div class="locationHeader">
                         <div class="locationName">
                             {{location.LocationName}}
@@ -188,7 +188,7 @@
                                                         Min Level: {{part.MinLevel}}
                                                     </div>
                                                 </div>
-                                            </div>'>
+                                            </div>' [options]="hideDelay">
                                             <span
                                                 (click)="open(content,part.Name,part.StoragePath,location)">{{part.Name}}</span>
                                             <span class="uptodateBadge">{{part.QuantityAvailable}}</span>
@@ -252,13 +252,13 @@
             </div>
         </div>
     </div>
-    <div class="col-md " *ngIf="SiteSelected">
+    <div class="col-md animated" *ngIf="SiteSelected">
         <div class="locationHeader">
             <div class="otherName">
                 Other
             </div>
         </div>
-        <div class="card zeroStockPanel">
+        <div class="card zeroStockPanel animated">
             <div class="card zeroStockHeader">
                 <div class="zeroStock">
                     Zero Stock Inventory
@@ -277,7 +277,7 @@
                 </div>
             </div>
         </div>
-        <div class="card nonStockPanel">
+        <div class="card nonStockPanel animated">
             <div class="card nonStockHeader">
                 <div class="locationName">
                     Non Stock

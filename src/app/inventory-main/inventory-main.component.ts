@@ -19,6 +19,11 @@ import { storageLocationMax } from '../Interfaces/storageLocationMax';
 })
 export class InventoryMainComponent implements OnInit {
 
+  hideDelay = {
+    'placement': 'top',
+    'showDelay': 0,
+    'hideDelay': 10,
+  };
   partNamePipe: string;
   parts: any[100];
   locations: any[100];
@@ -135,6 +140,7 @@ export class InventoryMainComponent implements OnInit {
   }
 
   ngOnInit(): void {
+
     this.shared.messageData$.subscribe(
       data => {
         this.SiteSelected = true;
@@ -207,24 +213,27 @@ export class InventoryMainComponent implements OnInit {
     );
 
     this.parts = [
-      { partName: "P12121", partNum: 1234, partQty: 14 },
-      { partName: "P2322342", partNum: 1235, partQty: 124 },
-      { partName: "Pw837374", partNum: 1236, partQty: 1 },
-      { partName: "P993403", partNum: 1237, partQty: 14 },
-      { partName: "P_!@$%wewew", partNum: 1238, partQty: 134 },
-      { partName: "P83943984", partNum: 1239, partQty: 12 }
+      { partName: "Spring FS 101", partNum: 1234, partQty: 14 },
+      { partName: "Philedus Nut", partNum: 1235, partQty: 124 },
+      { partName: "Bolt", partNum: 1236, partQty: 1 },
+      { partName: "Clincher Ram 10 X 22", partNum: 1237, partQty: 14 },
+      { partName: "Driver 12 x 25", partNum: 1238, partQty: 134 },
+      { partName: "Hopper", partNum: 1239, partQty: 12 }
+
     ];
     this.nonStockParts = [
-      { partName: "P12121", partNum: 1234, partQty: 14 },
-      { partName: "P2322342", partNum: 1235, partQty: 124 },
-      { partName: "Pw837374", partNum: 1236, partQty: 1 },
-      { partName: "P993403", partNum: 1237, partQty: 14 },
-      { partName: "P_!@$%wewew", partNum: 1238, partQty: 134 },
-      { partName: "P12121", partNum: 1234, partQty: 14 },
-      { partName: "P2322342", partNum: 1235, partQty: 124 },
-      { partName: "Pw837374", partNum: 1236, partQty: 1 },
-      { partName: "P993403", partNum: 1237, partQty: 14 },
-      { partName: "P_!@$%wewew", partNum: 1238, partQty: 134 },
+      { partName: "Spring FS 101", partNum: 1234, partQty: 14 },
+      { partName: "Philedus Nut", partNum: 1235, partQty: 124 },
+      { partName: "Bolt", partNum: 1236, partQty: 1 },
+      { partName: "Clincher Ram 10 X 22", partNum: 1237, partQty: 14 },
+      { partName: "Driver 12 x 25", partNum: 1238, partQty: 134 },
+      { partName: "Hopper", partNum: 1239, partQty: 12 },
+      { partName: "Spring FS 101", partNum: 1234, partQty: 14 },
+      { partName: "Philedus Nut", partNum: 1235, partQty: 124 },
+      { partName: "Bolt", partNum: 1236, partQty: 1 },
+      { partName: "Clincher Ram 10 X 22", partNum: 1237, partQty: 14 },
+      { partName: "Driver 12 x 25", partNum: 1238, partQty: 134 },
+      { partName: "Hopper", partNum: 1239, partQty: 12 }
     ]
 
     this.Site[0].Locations.forEach((element: any) => {
