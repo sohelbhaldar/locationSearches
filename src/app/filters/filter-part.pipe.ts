@@ -1,6 +1,4 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import { locationSearchesDomain } from '../Modals/locationSearches';
-import { Location } from "../Modals/location"
 import { part } from '../Interfaces/part'
 
 @Pipe({
@@ -14,7 +12,9 @@ export class FilterPartPipe implements PipeTransform {
       return part;
     }
     else {
-      return part.filter((parts) => { return parts.PartId == partId })
+      var part = part.filter((parts) => { return parts.PartId == partId })
+      console.log(part);
+      return part;
     }
   }
   // transform(part: part[], partName: string) {

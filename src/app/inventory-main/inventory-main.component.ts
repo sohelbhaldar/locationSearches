@@ -19,6 +19,7 @@ import { storageLocationMax } from '../Interfaces/storageLocationMax';
 })
 export class InventoryMainComponent implements OnInit {
 
+  partNamePipe: string;
   parts: any[100];
   locations: any[100];
   nonStockParts: any;
@@ -192,22 +193,16 @@ export class InventoryMainComponent implements OnInit {
     this.shared.partNameIdData$.subscribe(
       data => {
         this.partId = parseInt(data);
-
-        // const result = this.Site.filter((m: any) => {
-        //   this.locationFilter = m.Locations.filter((m: any) => {
-        //     this.partFilter = m.Parts.filter((m: any) => {
-        //       if (m.PartId == this.partId) {
-        //         this.filterSuccess = true;
-        //         return true;
-        //       }
-        //       else {
-        //         if (this.filterSuccess == true) { return true }
-        //         else return true;
-        //       }
-        //     })
-        //   })
-        // });
+        this.partNamePipe = "";
         console.log("filter change" + this.Site);
+      }
+    );
+    this.shared.partNameData$.subscribe(
+      data => {
+        this.partNamePipe = data;
+        this.partId = 0;
+        console.log("----data--");
+        console.log(data);
       }
     );
 
