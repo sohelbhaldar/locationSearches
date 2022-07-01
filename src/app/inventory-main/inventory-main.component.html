@@ -88,14 +88,14 @@
         </div>
     </div>
     <div class="col-md-9">
-        <div class="locationHeaderName" *ngIf="SiteSelected">
+        <div class="locationHeaderName animated" *ngIf="SiteSelected">
             <div class="locationNameHead">
                 Locations
             </div>
         </div>
         <div fxLayout="row wrap" class="d-flex flex-row">
             <div fxFlex="50%" *ngFor="let location of Site[0].Locations">
-                <div class="locationCard" *ngIf="location.Parts.length > 0">
+                <div class="locationCard animated" *ngIf="location.Parts.length > 0">
                     <div class="locationHeader">
                         <div class="locationName">
                             {{location.LocationName}}
@@ -104,7 +104,8 @@
                     <div class="row partsCard ">
                         <div class="col-md-4 lowStock" cdkDropList [cdkDropListData]="location.Parts"
                             (cdkDropListDropped)="drop($event,confirmTransfer)">
-                            <div *ngFor="let part of location.Parts | filterPart: partId" cdkDrag>
+                            <div *ngFor="let part of location.Parts | filterPart: partId  | filterPartname: partNamePipe"
+                                cdkDrag>
                                 <div class="lowStock">
                                     <button *ngIf="part.MinLevel > part.QuantityAvailable" href="#" id="{{part.PartNo}}"
                                         class=" btn btn-outline-danger lowStockPart" tooltip='<div class="partToolTip">
@@ -152,7 +153,8 @@
                         <div class="col-md-4 uptodate" cdkDropList [cdkDropListData]="location.Parts"
                             (cdkDropListDropped)="drop($event,confirmTransfer)">
                             <div class="uptodate">
-                                <div *ngFor="let part of location.Parts | filterPart: partId" cdkDrag>
+                                <div *ngFor="let part of location.Parts | filterPart: partId  | filterPartname: partNamePipe"
+                                    cdkDrag>
                                     <div class="uptodate">
                                         <button *ngIf="part.MinLevel < part.QuantityAvailable" href="#"
                                             class=" btn uptodatePart btn-outline-success " tooltip='<div class="partToolTip">
@@ -186,7 +188,7 @@
                                                         Min Level: {{part.MinLevel}}
                                                     </div>
                                                 </div>
-                                            </div>'>
+                                            </div>' [options]="hideDelay">
                                             <span
                                                 (click)="open(content,part.Name,part.StoragePath,location)">{{part.Name}}</span>
                                             <span class="uptodateBadge">{{part.QuantityAvailable}}</span>
@@ -200,7 +202,8 @@
                         <div class="col-md-4 backorder" cdkDropList [cdkDropListData]="location.Parts"
                             (cdkDropListDropped)="drop($event,confirmTransfer)">
                             <div class="backorder">
-                                <div *ngFor="let part of location.Parts | filterPart: partId" cdkDrag>
+                                <div *ngFor="let part of location.Parts | filterPart: partId  | filterPartname: partNamePipe"
+                                    cdkDrag>
                                     <div *ngIf="part.QuantityOnBackOrder > 0" class="backorder">
                                         <button href="#" class=" btn btn-outline-info backorderPart" tooltip='<div class="partToolTip">
                                             <div class="row">
@@ -249,13 +252,13 @@
             </div>
         </div>
     </div>
-    <div class="col-md " *ngIf="SiteSelected">
+    <div class="col-md animated" *ngIf="SiteSelected">
         <div class="locationHeader">
             <div class="otherName">
                 Other
             </div>
         </div>
-        <div class="card zeroStockPanel">
+        <div class="card zeroStockPanel animated">
             <div class="card zeroStockHeader">
                 <div class="zeroStock">
                     Zero Stock Inventory
@@ -274,7 +277,7 @@
                 </div>
             </div>
         </div>
-        <div class="card nonStockPanel">
+        <div class="card nonStockPanel animated">
             <div class="card nonStockHeader">
                 <div class="locationName">
                     Non Stock

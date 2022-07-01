@@ -21,26 +21,23 @@ export class SharedService {
     this.partName.next(data);
     console.log(data)
   }
-
-  setPartIdValues(data: number) {
-    this.partIdName.next(data);
-    console.log(data)
-  }
-
-  getPartIdValues(data: number) {
-    this.partIdName.next(data);
-    console.log(data)
-  }
-
   getPartValues() {
     console.log(this.partName)
     return this.partName;
   }
 
+  setPartIdValues(data: number) {
+    this.partIdName.next(data);
+    console.log(data)
+  }
+  getPartIdValues(data: number) {
+    this.partIdName.next(data);
+    console.log(data)
+  }
+
   setSiteValues(data: any) {
     this.mymessage.next(data);
   }
-
   getSiteValues() {
     return this.mymessage;
   }

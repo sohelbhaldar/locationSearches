@@ -14,7 +14,7 @@ export class InventoryHeaderComponent implements OnInit {
   siteValue!: FormGroup;
   siteCode?: string = ""
   partName: string;
-  partId: number;
+  partId: string;
   constructor(private shared: SharedService, private formBuilder: FormBuilder) { }
 
   ngOnInit(): void {
@@ -24,7 +24,14 @@ export class InventoryHeaderComponent implements OnInit {
   }
 
   searchPart() {
-    this.shared.setPartIdValues(this.partId);
+    var isNum = parseInt(this.partId);
+    if (Number.isInteger(this.partId) || isNum || this.partId == "") {
+      this.shared.setPartValues(this.partId);
+      //this.shared.setPartIdValues(parseInt(this.partId));
+    }
+    else {
+      this.shared.setPartValues(this.partId);
+    }
   }
 
   changeSite(e: any) {

@@ -14,7 +14,8 @@ import { MatTooltipModule } from '@angular/material/tooltip';
 import { TooltipModule } from 'ng2-tooltip-directive';
 import { GetMypartComponent } from './get-mypart/get-mypart.component';
 import { FilterPartPipe } from './filters/filter-part.pipe';
-import { NgToastModule } from 'ng-angular-popup'
+import { NgToastModule } from 'ng-angular-popup';
+import { FilterPartnamePipe } from './filters/filter-partname.pipe'
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { NgToastModule } from 'ng-angular-popup'
     InventoryMainComponent,
     InventoryHeaderComponent,
     GetMypartComponent,
-    FilterPartPipe
+    FilterPartPipe,
+    FilterPartnamePipe
   ],
   imports: [
     BrowserModule,
